@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jimasan93/study-api/issues"
   },
-  "homepage": "https://github.com/jimasan93/study-api#readme"
+  "homepage": "https://github.com/jimasan93/study-api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
